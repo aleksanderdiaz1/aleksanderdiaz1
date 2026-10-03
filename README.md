@@ -10,9 +10,9 @@
 Frontend
 `HTML5` •  `JavaScript`
 Backend & Bases de Datos
-`Java` • `SQL` • `MySQL`
+`SQL` • `MySQL`• `Python`
 Herramientas
-`NetBeans` • `Visual Studio` • `MySQL Workbench` • `Oracle Live SQL` • `Git` • `GitHub`
+`Visual Studio` • `Git`
 ---
 💻 Proyectos Destacados
 Aquí tienes algunos de los proyectos en los que he trabajado durante mi formación:
