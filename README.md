@@ -1,39 +1,62 @@
 ¡Hola! Soy Aleksander 👋
+
 🚀 Sobre mí
-¡Bienvenido/a a mi perfil de GitHub! Soy estudiante de Desarrollo de Software en SENATI, interesado en el desarrollo de aplicaciones y especialmente en el área de Backend y Bases de Datos.
-🔭 Actualmente estoy realizando mis prácticas de Desarrollo de Software y participando en proyectos de desarrollo web.
-🌱 Estoy aprendiendo y profundizando en Java, SQL, desarrollo web y bases de datos.
-💬 Pregúntame sobre Java, SQL, MySQL, HTML, CSS y desarrollo web.
-⚡ Dato curioso: Desde pequeño me interesan la programación y los videojuegos, lo que me motivó a seguir una carrera relacionada al desarrollo de software.
+
+Soy estudiante de Desarrollo de Software en SENATI. Me gusta aprender programación y desarrollar proyectos para seguir mejorando mis conocimientos.
+
+Actualmente estoy aprendiendo principalmente sobre Java, SQL, bases de datos y desarrollo web. Me interesa seguir creciendo en el área de Backend y Bases de Datos.
+
+- 🔭 Actualmente estoy realizando mis prácticas de Desarrollo de Software.
+- 🌱 Aprendiendo más sobre Java, SQL y desarrollo web.
+- 💬 Me interesa todo lo relacionado con programación y bases de datos.
+- ⚡ Dato curioso: Me gustan los videojuegos y desde pequeño me llamó la atención la programación.
+
 ---
-🛠️ Mis Tecnologías y Herramientas
+
+🛠️ Tecnologías y herramientas
+
 Frontend
-`HTML5` •  `JavaScript`
-Backend & Bases de Datos
-`SQL` • `MySQL`• `Python`
+
+"HTML" • "CSS" • "JavaScript"
+
+Backend y Bases de Datos
+
+"Java" • "SQL" • "MySQL" • "SQL Server" • "JDBC" • "JSP" • "Servlets"
+
 Herramientas
-`Visual Studio` • `Git`
+
+"NetBeans" • "Visual Studio Code" • "MySQL Workbench" • "Oracle Live SQL" • "Git" • "GitHub"
+
 ---
-💻 Proyectos Destacados
-Aquí tienes algunos de los proyectos en los que he trabajado durante mi formación:
-Sistema Web para Gestión
-Descripción: Desarrollo de una aplicación web utilizando una arquitectura organizada para gestionar información y operaciones del sistema.
-Tecnologías: `Java`, `JSP`, `Servlets`, `JDBC`, `SQL`
-Herramientas: `NetBeans`, `MySQL`
-Proyecto Web para La Benita Lima
-Descripción: Desarrollo y mejora de una página web para un negocio, incluyendo funcionalidades orientadas a facilitar la atención y los pedidos mediante canales digitales.
-Tecnologías: `HTML`, `CSS`, `JavaScript`
-Herramientas: `Visual Studio Code`
-Modelado y Gestión de Bases de Datos
-Descripción: Diseño de bases de datos, elaboración de modelos entidad-relación y desarrollo de consultas SQL para la gestión de información.
-Tecnologías: `SQL`, `MySQL`, `SQL Server`
-Herramientas: `MySQL Workbench`, `Oracle Live SQL`, `yEd`
+
+💻 Algunos proyectos
+
+🌐 Proyecto Web - La Benita Lima
+
+Proyecto web en el que estoy ayudando con el desarrollo y mejora de la página de un negocio.
+
+Tecnologías: "HTML" • "CSS" • "JavaScript"
+
 ---
-📚 Formación
-🎓 Desarrollo de Software — SENATI  
-2024 – Actualidad
-Actualmente me encuentro desarrollando conocimientos en programación, bases de datos, desarrollo web y arquitectura de aplicaciones, con especial interés en fortalecer mi perfil hacia Backend y Bases de Datos.
+
+🗄️ Proyectos de Bases de Datos
+
+Trabajos realizados durante la carrera, utilizando modelos entidad-relación, consultas SQL y diferentes herramientas para trabajar con bases de datos.
+
+Tecnologías: "SQL" • "MySQL" • "SQL Server"
+
 ---
+
+🎓 Estudios
+
+Desarrollo de Software — SENATI
+
+2024 - Actualidad
+
+Actualmente sigo aprendiendo y desarrollando proyectos como parte de mi formación.
+
+---
+
 📊 Mis Estadísticas de GitHub
 <p align="center">
   <img src="https://github.com/aleksanderdiaz1" alt="Estadísticas de GitHub" />
@@ -43,5 +66,4 @@ Actualmente me encuentro desarrollando conocimientos en programación, bases de 
 ---
 📬 Conéctate conmigo
 LinkedIn: Mi perfil de LinkedIn
-GitHub: Mi perfil de GitHub
-Email: TU_CORREO
+Email: alexdiazallpaja349@gmail.com
