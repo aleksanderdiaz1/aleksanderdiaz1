@@ -8,9 +8,9 @@
 ---
 🛠️ Mis Tecnologías y Herramientas
 Frontend
-`HTML5` • `CSS3` • `JavaScript`
+`HTML5` •  `JavaScript`
 Backend & Bases de Datos
-`Java` • `SQL` • `MySQL` • `SQL Server` • `JDBC` • `JSP` • `Servlets`
+`Java` • `SQL` • `MySQL`
 Herramientas
 `NetBeans` • `Visual Studio` • `MySQL Workbench` • `Oracle Live SQL` • `Git` • `GitHub`
 ---
